@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/TheCodingHamster?logo=github)](https://github.com/TheCodingHamster)
 [![Python Lover](https://img.shields.io/badge/python%20-lover%20❤-fcdf5a?logo=python&logoColor=white)](https://python.org)
 
-Quotes:
+**Nice Quotes**
 
 ![Yoda](https://img.shields.io/badge/Do%20or%20do%20not.%20There%20is%20no%20try.---%20Yoda-8EAB4B?style=flat-square&logo=starship)
 
