@@ -8,7 +8,7 @@
 
 *Imagination fuels the power of code. For knowledge provides the foundation, while imagination empowers innovation and transforms possibilities.* - Albert Einstein
 
-*Unlocking the potential of algorithms and weaving words of code, together we'll embark on a journey of innovation and endless possibilities. Let's code our way to the future, one bug at a time!* - ChatGPT
+*Let's code our way to the future, one bug at a time!* - ChatGPT
 
 
 <!--
