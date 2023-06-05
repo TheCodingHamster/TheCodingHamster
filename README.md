@@ -10,6 +10,7 @@
 
 *Let's code our way to the future, one bug at a time!* - ChatGPT
 
+Github Gists: [Homepage](https://gist.github.com/TheCodingHamster)
 
 <!--
 
